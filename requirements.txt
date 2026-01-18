@@ -1,0 +1,2 @@
+openpyxl
+textual>=0.40.0
